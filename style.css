@@ -1,0 +1,1411 @@
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(223, 208, 184, 1) 0%,
+    rgba(191, 178, 158, 1) 51.499998569488525%,
+    rgba(148, 137, 121, 1) 100%
+  );
+  height: 2883px;
+  position: relative;
+}
+.logo {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  width: 50px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 670px);
+  top: calc(50% - 1391.5px);
+}
+.uperstore {
+  color: #153448;
+  text-align: left;
+  font-family: PT Mono;
+  font-size: 25px;
+  line-height: 0px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 133px;
+  top: 95px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.turn-your-data-into-meaningful-narratives {
+  color: #153448;
+  text-align: left;
+  font-family: Ubuntu Mono;
+  font-size: 60px;
+  line-height: 80px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 50px;
+  top: 190px;
+}
+.pay-attention-to-the-overall-data-analysis-presented-by-the-superstore-company {
+  color: #153448;
+  text-align: left;
+  font-family: Ubuntu;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.07em;
+  font-weight: 400;
+  position: absolute;
+  left: 55px;
+  top: 410px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+button {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    margin-bottom: 2279px;
+    margin-top: 514px;
+    margin-left: 70px;
+    margin-right: 1093px;
+    padding: 0;
+    font-size: inherit;
+    font-family: inherit;
+  }
+  
+  button.learn-more {
+    width: 11rem;
+    height: auto;
+  }
+  
+  button.learn-more .circle {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    box-shadow: 0 0 5px 1px white;
+    position: relative;
+    display: block;
+    margin: 0;
+    width: 3rem;
+    height: 3rem;
+    background: #153448;
+    border-radius: 1.625rem;
+  }
+  
+  button.learn-more .circle .icon {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: #153448;
+  }
+  
+  button.learn-more .circle .icon.arrow {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    left: 0.625rem;
+    width: 1.125rem;
+    height: 0.125rem;
+    background: none;
+  }
+  
+  button.learn-more .circle .icon.arrow::before {
+    position: absolute;
+    content: "";
+    top: -0.29rem;
+    right: 0.0625rem;
+    width: 0.625rem;
+    height: 0.625rem;
+    border-top: 0.125rem solid #fff;
+    border-right: 0.125rem solid #fff;
+    transform: rotate(45deg);
+  }
+  
+  button.learn-more .button-text {
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0.75rem 0;
+    margin: 0 0 0 1.85rem;
+    color: #153448;
+    font-weight: 700;
+    line-height: 1.6;
+    text-align: center;
+    font-family: Ubuntu Mono;
+    text-transform: uppercase;
+  }
+  
+  button:hover .circle {
+    width: 100%;
+    box-shadow: 0 0 10px 2px #153448;
+  }
+  
+  button:hover .button-text {
+    transform: translate(-1.7rem, 0);
+  }
+  
+  button:hover .circle .icon.arrow {
+    background: #153448;
+    transform: translate(8.7rem, 0);
+  }
+  
+  button:active .circle .icon.arrow {
+    transform: translate(9.5rem, 0);
+    transition: all 0.3s;
+  }
+  
+  button:active .circle {
+    transform: scale(0.9);
+    transition: all 0.3s;
+    box-shadow: 0 0 5px 0.5px #153448;
+  }
+  
+  button:hover .button-text {
+    color: #DFD0B8;
+  }
+  
+  button:active .button-text {
+    color: rgba(255, 255, 255, 0.459);
+  }
+  
+.charts-amico {
+  height: auto;
+  position: absolute;
+  left: 721px;
+  top: 140.26px;
+  overflow: visible;
+}
+.chromed-shop-building {
+  width: 419px;
+  height: 456px;
+  position: absolute;
+  left: 150px;
+  top: 850px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  inset: 0;
+}
+.is-a-large-retail-company-that-offers-a-wide-range-of-products-including-electronics-furniture-household-appliances-clothing-and-groceries-superstore-giant-can-display-statistics-about-their-business-performance-such-as-number-of-sales-number-of-customers-and-number-of-products-in-stock {
+  color: #153448;
+  text-align: left;
+  font-family: Ubuntu;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.07em;
+  font-weight: 400;
+  position: absolute;
+  left: 659px;
+  top: 1023px;
+  width: 710px;
+  height: 215px;
+}
+.superstore-giant {
+  color: #153448;
+  text-align: left;
+  font-family: Ubuntu Mono;
+  font-size: 60px;
+  line-height: 80px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 659px;
+  top: 943px;
+}
+.our-team {
+  color: #153448;
+  text-align: left;
+  font-family: Ubuntu Mono;
+  font-size: 60px;
+  line-height: 80px;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 131px);
+  top: 1449.5px;
+}
+
+.icak {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 130px;
+  top: 1920.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.div-user-picture {
+  border-radius: 999px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: calc(50% - 40px);
+  top: calc(50% - 103.04px);
+  overflow: hidden;
+}
+.whats-app-image-2024-05-07-at-21-05-1 {
+  width: 76px;
+  height: 136px;
+  position: absolute;
+  left: 4px;
+  top: -24px;
+  object-fit: cover;
+}
+.p-name-client {
+  height: 40px;
+  position: absolute;
+  right: 24px;
+  left: 24px;
+  top: 129px;
+}
+.a-chairunisa {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: Ubuntu;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 66px);
+  top: 0px;
+  width: 132px;
+  height: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.span {
+  height: 19px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 21px;
+}
+.data-cleaner {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 58.11px);
+  top: 0px;
+  width: 116.22px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div-social-media {
+  height: 46.09px;
+  position: absolute;
+  right: 24px;
+  left: 24px;
+  top: 189px;
+}
+.before {
+  background: #3c5b6f;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 44.09px;
+  top: 0px;
+}
+.link {
+  width: 21.56px;
+  height: 19px;
+  position: absolute;
+  left: 16.36px;
+  top: 27.09px;
+}
+.svg {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.link2 {
+  width: 21.56px;
+  height: 19px;
+  position: absolute;
+  left: 52.92px;
+  top: 27.09px;
+}
+.svg2 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.link3 {
+  width: 21.56px;
+  height: 19px;
+  position: absolute;
+  left: 89.48px;
+  top: 27.09px;
+}
+.svg3 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg4 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.aurel {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 616px;
+  top: 1920.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-19-25-1 {
+  width: 85px;
+  height: 109px;
+  position: absolute;
+  left: 4px;
+  top: -28.5px;
+  object-fit: cover;
+}
+.aurellia-ainun {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.data-analyst {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 58.11px);
+  top: 0px;
+  width: 116.22px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg5 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg6 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg7 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg8 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.andi-n {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 859px;
+  top: 1920.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.img-20240507-wa-0027-1 {
+  width: 91px;
+  height: 121px;
+  position: absolute;
+  left: -6px;
+  top: -22.5px;
+  object-fit: cover;
+}
+.andi-nailah-ig {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.designer {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 58.11px);
+  top: 0px;
+  width: 116.22px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg9 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg10 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg11 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg12 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.ajeng {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 373px;
+  top: 1920.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-20-02-1 {
+  width: 115px;
+  height: 76px;
+  position: absolute;
+  left: -15px;
+  top: 2.5px;
+  object-fit: cover;
+}
+.p-name-client2 {
+  width: 160px;
+  height: 40px;
+  position: absolute;
+  left: calc(50% - 80px);
+  top: 129px;
+}
+.ajeng-nurhaliza {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 137px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quality-assurance {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: 0.5px;
+  width: 160px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg13 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg14 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg15 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg16 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.ratue {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 738px;
+  top: 2220.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.wallpaperflare-1 {
+  width: 132px;
+  height: 74px;
+  position: absolute;
+  left: -26px;
+  top: 3.5px;
+  object-fit: cover;
+}
+.ratu-aulia {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.business-intelligence {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: 0.5px;
+  width: 168px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg17 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg18 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg19 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg20 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.andaru {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 495px;
+  top: 2220.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.wallpaperflare-2 {
+  width: 192px;
+  height: 108px;
+  position: absolute;
+  left: -103px;
+  top: -13.5px;
+  object-fit: cover;
+}
+.andaru-windu {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.data-comunication {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: 0.5px;
+  width: 160px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg21 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg22 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg23 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg24 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.bang-jul {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 1102px;
+  top: 1920.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-15-44-1 {
+  width: 122px;
+  height: 156px;
+  position: absolute;
+  left: -12px;
+  top: -21.5px;
+  object-fit: cover;
+}
+.fikri-juliansyah {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 135px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.business-intelligence2 {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: 0.5px;
+  width: 168px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg25 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg26 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg27 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg28 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.zakki-ar-rizki {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 130px;
+  top: 1620.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-13-09-1 {
+  width: 102px;
+  height: 129px;
+  position: absolute;
+  left: -13px;
+  top: -17px;
+  object-fit: cover;
+}
+.zakki-ar-rizki2 {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.front-end-engineer {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: 0.5px;
+  width: 160px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg29 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg30 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg31 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg32 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.riski-adi-p {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 616px;
+  top: 1620.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.img-0119-1 {
+  width: 114px;
+  height: 99px;
+  position: absolute;
+  left: -17px;
+  top: -19px;
+  object-fit: cover;
+}
+.riski-adi-p2 {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.front-end-engineer2 {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: -1.5px;
+  width: 160px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg33 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg34 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg35 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg36 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.baktiar-yudha {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 859px;
+  top: 1620.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-13-51-1 {
+  width: 236.25%;
+  height: 103.75%;
+  position: absolute;
+  right: -67.5%;
+  left: -68.75%;
+  bottom: -3.75%;
+  top: 0%;
+  object-fit: cover;
+}
+.baktiar-yudha2 {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.svg37 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg38 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg39 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg40 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.putri-kw {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 373px;
+  top: 1620.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-13-10-1 {
+  width: 203px;
+  height: 271px;
+  position: absolute;
+  left: -83px;
+  top: -136px;
+  object-fit: cover;
+}
+.putri-kusumawati {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    top: 0px;
+    width: 156px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.svg41 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg42 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg43 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg44 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.nilam {
+  background: #153448;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #3c5b6f;
+  border-width: 4px;
+  width: 208px;
+  height: 264.09px;
+  position: absolute;
+  left: 1102px;
+  top: 1620.5px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.whats-app-image-2024-05-07-at-18-46-1 {
+  width: 77px;
+  height: 92px;
+  position: absolute;
+  left: 1px;
+  top: -6px;
+  object-fit: cover;
+}
+.nilam-sari-c {
+    color: #dfd0b8;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: calc(50% - 66px);
+    top: 0px;
+    width: 132px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.team-leader {
+  color: #dfd0b8;
+  text-align: center;
+  font-family: "Roboto-ExtraLight", sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  left: calc(50% - 58.11px);
+  top: 0px;
+  width: 116.22px;
+  height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.svg45 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg46 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 0px;
+  top: -5.09px;
+  overflow: visible;
+}
+.svg47 {
+  width: 17.59px;
+  height: 17.59px;
+  position: absolute;
+  left: 0px;
+  top: -2.59px;
+  overflow: visible;
+}
+.svg48 {
+  width: 17.59px;
+  height: 20.09px;
+  position: absolute;
+  left: 126.05px;
+  top: 22px;
+  overflow: visible;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: linear-gradient(
+    180deg,
+    rgba(21, 52, 72, 1) 0%,
+    rgba(26, 57, 77, 1) 37.99999952316284%,
+    rgba(37, 68, 88, 1) 63.499999046325684%,
+    rgba(46, 77, 97, 1) 87.34249472618103%,
+    rgba(60, 91, 111, 1) 100%
+  );
+  border-radius: 50px 50px 0px 0px;
+  width: 95%;
+  height: 270px;
+  position: absolute;
+  left: 40px;
+  top: 2615px;
+}
+._2024-team-16-palembang-inc {
+  color: #dfd0b8;
+  text-align: left;
+  font-family: Ubuntu Mono;
+  font-size: 20px;
+  line-height: 0px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 185px);
+  top: 2748px;
+}
+.group-4 {
+  width: 204px;
+  height: 63px;
+  position: static;
+}
+.logo2 {
+  width: 204px;
+  height: 63px;
+  position: static;
+}
+.vector2 {
+  width: 50px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 102px);
+  top: calc(50% - -1213.5px);
+  overflow: visible;
+}
+.uperstore2 {
+  color: #948979;
+  text-align: left;
+  font-family: PT Mono;
+  font-size: 25px;
+  line-height: 0px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 702px;
+  top: 2700px;
+}
+
+.card {
+    display: flex;
+    height: 70px;
+    width: 270px;
+    position: absolute;
+    left: 50%;
+    top: 97%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .card svg {
+    position: absolute;
+    display: flex;
+    width: 40%;
+    height: 100%;
+    font-size: 24px;
+    font-weight: 700;
+    opacity: 1;
+    transition: opacity 0.25s;
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  .card .social-link1,.card .social-link2,.card .social-link3,.card .social-link4 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    color: whitesmoke;
+    font-size: 24px;
+    text-decoration: none;
+    transition: 0.25s;
+    border-radius: 50px;
+  }
+  
+  .card svg {
+    transform: scale(1);
+  }
+  
+  .card .social-link1:hover {
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    animation: bounce_613 0.4s linear;
+  }
+  
+  .card .social-link2:hover {
+    background-color: #00ccff;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  .card .social-link3:hover {
+    background-color: #5865f2;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  .card .social-link4:hover {
+    background-color: #12a50b;
+    animation: bounce_613 0.4s linear;
+  }
+  
+  @keyframes bounce_613 {
+    40% {
+      transform: scale(1.4);
+    }
+  
+    60% {
+      transform: scale(0.8);
+    }
+  
+    80% {
+      transform: scale(1.2);
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
